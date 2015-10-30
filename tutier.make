@@ -129,11 +129,11 @@ projects[styleguide][version] = "1.1"
 
 projects[superfish][version] = "1.8"
 
-projects[temple_user_list][version] = "1.0"
+; projects[temple_user_list][version] = "1.0"
 
 projects[token][version] = "1.4"
 
-projects[tu_global][version] = "1.0-dev"
+; projects[tu_global][version] = "1.0-dev"
 
 projects[twitter][version] = "3.3"
 
@@ -164,4 +164,3 @@ libraries[ckeditor][destination]    = libraries
 libraries[superfish][download][type] = get
 libraries[superfish][download][url]  = "http://assets.temple.edu/sites/assets/files/libraries/tier2/superfish.tgz"
 libraries[superfish][destination]    = libraries
-
